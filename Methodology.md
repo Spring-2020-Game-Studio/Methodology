@@ -100,6 +100,8 @@ respect [the Heart of Agile](https://heartofagile.com).
 
 
 1. The team's plan will be recorded and managed on [Trello](trello.com).
+    - Ensure that your profile uses your natural name and initials for ease of
+      identification.
     - Each team will have its own board within [the organization](https://trello.com/spring2020gamestudio).
     - Each board will have the following top-level lists:
         - _Not Yet Started_ for work items that are part of the sprint but have not yet been started;
