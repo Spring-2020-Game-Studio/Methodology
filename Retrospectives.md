@@ -25,7 +25,7 @@ the sticky notes lose their stickiness.
 ## Retrospective Meeting Agenda
 
 1. Read aloud the Retrospective Prime Directive, which is taken from Norm
-   Kerth's _Project Retrospectives: A Handbook for Team Review.
+   Kerth's _Project Retrospectives: A Handbook for Team Review_.
 
     >Regardless of what we discover, we understand and truly believe that
    everyone did the best job they could, given what they knew at the time, their
